@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.ccc55877.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"item-c.md","lastUpdated":1676321668000}'),r={name:"item-c.md"};function c(o,s,n,i,p,d){return a(),t("div")}const f=e(r,[["render",c]]);export{_ as __pageData,f as default};

@@ -29,7 +29,7 @@ export default {
    // }
   ],
  },
- srcDir: './src',
- outDir: './doc',
+ srcDir: '../src',
+ outDir: '../doc',
  lastUpdated: true,
 }
