@@ -31,5 +31,6 @@ export default {
  },
  srcDir: '../src',
  outDir: '../docs',
+ base: '/20230214_vitepress/',
  lastUpdated: true,
 }
