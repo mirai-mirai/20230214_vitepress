@@ -30,6 +30,6 @@ export default {
   ],
  },
  srcDir: '../src',
- outDir: '../doc',
+ outDir: '../docs',
  lastUpdated: true,
 }
